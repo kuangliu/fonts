@@ -1,2 +1,2 @@
 # Fonts
-My coding fonts
+SFMono Regular patched with NerdFonts.
